@@ -57,6 +57,6 @@ This project is open-source under the MIT License.
 For questions or ideas, feel free to open an issue or contribute to the repository!
 
 
-emg temp1
+emg temp4
 emg temp2
 emg temp3
